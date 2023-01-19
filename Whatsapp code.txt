@@ -16,4 +16,4 @@ AUTHOR : lOGESH
 
 7.Adding the video call feature
 
-8.Adding status feature 
+8.Adding status feature for 30 seconds
